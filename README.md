@@ -23,13 +23,13 @@ Aplikasi ini dibuat untuk membantu pengurus RT dan warga agar proses peminjaman 
 ### Halaman Utama
 ![Halaman Utama](assets/landingpage.jpeg)
 
-### Halaman Peminjaman
-![Halaman Peminjaman](assets/halamanpeminjaman.jpeg)
+### Form Peminjaman
+![Form Peminjaman](assets/halamanpeminjaman.jpeg)
 
 ### Tampilan Login
 ![Tampilan Login(assets/admin.png)
 
-### Dashboard Admin 
+### Dashboard Peminjaman (Admin)
 ![Dashboard Admin(assets/admin.png)
 
 
