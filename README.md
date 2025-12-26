@@ -26,8 +26,14 @@ Aplikasi ini dibuat untuk membantu pengurus RT dan warga agar proses peminjaman 
 ### Halaman Peminjaman
 ![Halaman Peminjaman](assets/halamanpeminjaman.jpeg)
 
-### Dashboard Admin
-![Dashboard Admin](assets/admin.png)
+### Tampilan Login
+![Tampilan Login(assets/admin.png)
+
+### Dashboard Admin 
+![Dashboard Admin(assets/admin.png)
+
+
+
 
 ## 🛠️ Teknologi yang Digunakan
 - PHP
