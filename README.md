@@ -27,7 +27,7 @@ Aplikasi ini dibuat untuk membantu pengurus RT dan warga agar proses peminjaman 
 ![Form Peminjaman](assets/halamanpeminjaman.jpeg)
 
 ### Tampilan Login
-![Tampilan Login(assets/admin.png)
+![Tampilan Login(assets/login.jpeg)
 
 ### Dashboard Peminjaman (Admin)
 ![Dashboard Admin(assets/admin.png)
