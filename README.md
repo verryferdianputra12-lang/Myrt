@@ -57,5 +57,6 @@ Aplikasi ini dibuat untuk membantu pengurus RT dan warga agar proses peminjaman 
 3. Jalankan aplikasi menggunakan web server (XAMPP / Laragon)
 4. Akses melalui browser
 
-## 📄 Lisensi
-Aplikasi ini dibuat untuk keperluan pembelajaran dan pengelolaan internal RT.
+## 📄 Author
+- Verry ferdian Putra (221011402923)
+- Aplikasi ini dibuat untuk memenuhi tugas pemrograman web 2
